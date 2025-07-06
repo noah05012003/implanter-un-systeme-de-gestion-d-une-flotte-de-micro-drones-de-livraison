@@ -1,0 +1,21 @@
+# Fichier de scénario pour la flotte de drones
+# Format:
+# DRONE <id> <modèle> <charge_max>
+# COLIS <id> <poids> <destination>
+
+# Définition des drones
+DRONE 1 QuadX-100 2.0
+DRONE 2 QuadX-100 2.0
+DRONE 3 Hexa-500 3.0
+DRONE 4 Mini-200 1.5
+DRONE 5 FastX-300 2.5
+
+# Définition des colis
+COLIS 1 1.2 Université Laval, Pavillon Pouliot
+COLIS 2 1.8 Centre commercial Laurier
+COLIS 3 0.5 Parc de la Plage-Jacques-Cartier
+COLIS 4 0.8 Bibliothèque Gabrielle-Roy
+COLIS 5 1.4 Musée de la civilisation
+COLIS 6 1.9 Hôpital Enfant-Jésus
+COLIS 7 0.3 Cégep Limoilou
+COLIS 8 1.5 Aquarium du Québec
